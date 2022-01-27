@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/nguyenhoangdauT">
-	<img src="https://c4.wallpaperflare.com/wallpaper/591/844/1024/spider-man-spider-video-games-superhero-wallpaper-preview.jpg" width = "200" alt="TNT">
+	<img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t39.30808-6/241022280_1444975589215622_8718101034093620388_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=NC20teW-iAgAX-25JTC&_nc_ht=scontent.fdad3-1.fna&oh=00_AT--IU8NADOlQN-XsHpc5W35bt73gx9VEBJrfgBxlZiwJw&oe=61F81D5B" width = "200" alt="TNT">
 	</a>
 </p>
 
@@ -177,7 +177,7 @@ namespace TNT
 ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=ngoctienTNT&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=hoandau&theme=react-dark&hide_border=true">
 <p>
 
 <hr>

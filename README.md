@@ -1,8 +1,8 @@
-# <p align="center">𝓣𝓻𝓪̂̀𝓷 𝓝𝓰𝓸̣𝓬 𝓣𝓲𝓮̂́𝓷</p>
+# <p align="center">Nguyễn Hoàng Đấu</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<a href="https://github.com/nguyenhoangdauT">
+	<img src="https://c4.wallpaperflare.com/wallpaper/591/844/1024/spider-man-spider-video-games-superhero-wallpaper-preview.jpg" width = "200" alt="TNT">
 	</a>
 </p>
 
@@ -15,11 +15,11 @@ namespace TNT
     {
         static void Main(string[] args)
         {
-            string Name = "Trần Ngọc Tiến";
-            string Age = "2002";
+            string Name = "Nguyễn Hoàng Đấu";
+            string Age = "2000";
             string Gender = "Male";
-            string Address = "Khánh Hòa, Việt Nam";
-            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
+            string Address = "Bạc Liêu, Việt Nam";
+            string University = "Trường Đại học Cần Thơ - IT";
             string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
         }

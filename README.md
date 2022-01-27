@@ -177,7 +177,7 @@ namespace TNT
 ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=ngoctien&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=hoangdau&theme=react-dark&hide_border=true">
 <p>
 
 <hr>

@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/nguyenhoangdauT">
-	<img src="https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.6435-9/139786469_689355921757727_6378240061797917604_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=HTwDoQibHpgAX9lpvNx&_nc_ht=scontent.fsgn5-12.fna&oh=00_AT_UckmNim02g6Ali06sVIB87WOl7tqPbxddWnaI5pfoTg&oe=62325906" width = "500" alt="TNT">
+	<img src="https://www.pinterest.com/pin/38702878039543598/?nic_v3=1a5VZzK9m" width = "500" alt="TNT">
 	</a>
 </p>
 

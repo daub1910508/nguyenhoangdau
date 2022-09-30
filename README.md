@@ -2,7 +2,8 @@
 
 <p align="center">
 	<a href="https://github.com/nguyenhoangdauT">
-	<img src="https://www.pinterest.com/pin/38702878039543598/?nic_v3=1a5VZzK9m" width = "500" alt="TNT">
+	<img src="![image](https://user-images.githubusercontent.com/91709317/193208825-88907b13-f186-4c24-bc6c-f9334efc3096.png)
+" width = "500" alt="TNT">
 	</a>
 </p>
 
